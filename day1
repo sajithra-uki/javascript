@@ -1,0 +1,6 @@
+function name(){
+    return"John";
+}
+
+var a = name();
+console.log(name());
